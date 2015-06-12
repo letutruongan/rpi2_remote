@@ -9,3 +9,5 @@ dtoverlay=lirc-rpi
 See here for more info.
 
 http://www.msldigital.com/pages/support-for-remote
+
+This is for Openelec
