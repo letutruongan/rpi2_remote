@@ -1,0 +1,11 @@
+I think openelec is missing some overays. Try adding these:
+https://github.com/raspberrypi/firmware/...t/overlays
+
+(or at least the lirc-rpi one)
+
+and adding to config.txt
+dtoverlay=lirc-rpi
+
+See here for more info.
+
+http://www.msldigital.com/pages/support-for-remote
