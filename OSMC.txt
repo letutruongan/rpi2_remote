@@ -14,4 +14,6 @@ This is for Openelec
 
 This is a change!!!
 
+This is a NEW change!!!
+
 This is also for OSMC
