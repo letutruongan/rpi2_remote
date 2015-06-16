@@ -17,4 +17,8 @@ http://www.msldigital.com/pages/support-for-remote
 This is for Openelec
 
 This is also for OSMC
-Change before make the pull!!!
+1.Change on master - This is also for OSMC
+2. Continue working on on master!!!!
+
+
+Z.Change before make the pull!!!
